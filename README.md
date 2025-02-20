@@ -16,3 +16,5 @@ task 1:a pipeline for data preprocessing, transformation and loading using tools
 task 2:implement a deeplearning model for image classification or nlp using tensorflow
 task 3:a full data science project, from data collection and prepeocessing to model deployement
 task 4:solve business problem using optimization technique
+
+output:https://github.com/pravalika-peddaboina/data-science.git
